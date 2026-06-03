@@ -1,0 +1,2 @@
+method: "get"
+route: "between/{startReleaseYear}/and/{endReleaseYear}"

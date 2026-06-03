@@ -1,0 +1,2 @@
+method: "get"
+route: "character/{characterName}/name"

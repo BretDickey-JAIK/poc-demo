@@ -1,0 +1,37 @@
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029faf"
+  },
+  "title": "The Lord of the Rings: The Return of the King",
+  "releaseYear": 2003,
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Aragorn",
+      "race": "Man"
+    },
+    {
+      "name": "Gandalf the White",
+      "race": "Maia (Wizard)"
+    },
+    {
+      "name": "Arwen",
+      "race": "Elf"
+    },
+    {
+      "name": "Elrond",
+      "race": "Elf"
+    },
+    {
+      "name": "Sauron",
+      "race": "Maia (Dark Lord)"
+    },
+    {
+      "name": "Witch-king of Angmar",
+      "race": "Wraith"
+    }
+  ]
+}

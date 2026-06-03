@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fad"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "releaseYear": 2001
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fae"
+  },
+  "title": "The Lord of the Rings: The Two Towers",
+  "releaseYear": 2002
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029faf"
+  },
+  "title": "The Lord of the Rings: The Return of the King",
+  "releaseYear": 2003
+}]

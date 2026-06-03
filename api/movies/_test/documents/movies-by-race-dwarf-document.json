@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fad"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "releaseYear": 2001,
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Legolas",
+      "race": "Elf"
+    },
+    {
+      "name": "Gimli",
+      "race": "Dwarf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb0"
+  },
+  "title": "The Hobbit: An Unexpected Journey",
+  "releaseYear": 2012,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Balin",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Galadriel",
+      "race": "Elf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb1"
+  },
+  "title": "The Hobbit: The Desolation of Smaug",
+  "releaseYear": 2013,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Smaug",
+      "race": "Dragon"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb2"
+  },
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "releaseYear": 2014,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Azog the Defiler",
+      "race": "Orc"
+    },
+    {
+      "name": "Dain Ironfoot",
+      "race": "Dwarf"
+    }
+  ]
+}]

@@ -36,7 +36,11 @@ test("MovieByIdGet returns a single Movie object matching the _id", async() => {
     // Remove _id from expected to match the received (mocked data without _id)
     delete movieResponse._id;
 
-    expect(JSON.stringify(body)).toBe(JSON.stringify(movieResponse));
+    // Character _id is auto-generated (non-deterministic), so strip it before comparing
+    const normalizedBody = JSON.parse(JSON.stringify(body));
+    (normalizedBody.characters || []).forEach(character => delete character._id);
+
+    expect(JSON.stringify(normalizedBody)).toBe(JSON.stringify(movieResponse));
 });
 
 test("MovieByIdGet returns 404 when no movie is found", async() => {

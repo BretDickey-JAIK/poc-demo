@@ -1,0 +1,2 @@
+method: "put"
+route: "{movieId}/character/{characterId}/name/{characterName}/update"

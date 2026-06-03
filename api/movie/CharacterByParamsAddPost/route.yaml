@@ -1,0 +1,2 @@
+method: "post"
+route: "{movie_id}/character/{mainCharacterName}/add"

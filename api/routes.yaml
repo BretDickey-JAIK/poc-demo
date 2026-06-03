@@ -2,3 +2,6 @@ routes:
   - name: "Movies"
     prefix: "movies"
     path: "./movies"
+  - name: "Movie"
+    prefix: "movie"
+    path: "./movie"

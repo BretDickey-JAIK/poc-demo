@@ -14,5 +14,5 @@ MovieSchema.statics.getAllMovies = function() {
     return this.find({});
 };
 
-module.exports = mongoose.model("movies", MovieSchema, "movies");
+module.exports = mongoose.model("movies", MovieSchema, "BretDickey");
 

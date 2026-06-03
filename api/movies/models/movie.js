@@ -5,7 +5,7 @@ const MovieSchema = mongoose.Schema({
     name: String,
     releaseYear: Number,
     characters: [{
-        _id: false,
+        _id: mongoose.Schema.Types.ObjectId,
         name: String,
         race: String,
     }]

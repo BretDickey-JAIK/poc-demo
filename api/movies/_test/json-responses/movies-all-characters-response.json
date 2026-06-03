@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Frodo Baggins",
+    "race": "Hobbit"
+  },
+  {
+    "name": "Gandalf the Grey",
+    "race": "Maia (Wizard)"
+  },
+  {
+    "name": "Aragorn",
+    "race": "Man"
+  },
+  {
+    "name": "Legolas",
+    "race": "Elf"
+  },
+  {
+    "name": "Gimli",
+    "race": "Dwarf"
+  },
+  {
+    "name": "Boromir",
+    "race": "Man"
+  },
+  {
+    "name": "Samwise Gamgee",
+    "race": "Hobbit"
+  },
+  {
+    "name": "Saruman the White",
+    "race": "Maia (Wizard)"
+  },
+  {
+    "name": "Gollum",
+    "race": "Hobbit (Corrupted)"
+  },
+  {
+    "name": "Theoden",
+    "race": "Man"
+  },
+  {
+    "name": "Eowyn",
+    "race": "Man"
+  },
+  {
+    "name": "Treebeard",
+    "race": "Ent"
+  },
+  {
+    "name": "Faramir",
+    "race": "Man"
+  },
+  {
+    "name": "Gandalf the White",
+    "race": "Maia (Wizard)"
+  },
+  {
+    "name": "Arwen",
+    "race": "Elf"
+  },
+  {
+    "name": "Elrond",
+    "race": "Elf"
+  },
+  {
+    "name": "Sauron",
+    "race": "Maia (Dark Lord)"
+  },
+  {
+    "name": "Witch-king of Angmar",
+    "race": "Wraith"
+  },
+  {
+    "name": "Bilbo Baggins",
+    "race": "Hobbit"
+  },
+  {
+    "name": "Thorin Oakenshield",
+    "race": "Dwarf"
+  },
+  {
+    "name": "Balin",
+    "race": "Dwarf"
+  },
+  {
+    "name": "Radagast the Brown",
+    "race": "Maia (Wizard)"
+  },
+  {
+    "name": "Galadriel",
+    "race": "Elf"
+  },
+  {
+    "name": "Smaug",
+    "race": "Dragon"
+  },
+  {
+    "name": "Tauriel",
+    "race": "Elf"
+  },
+  {
+    "name": "Bard the Bowman",
+    "race": "Man"
+  },
+  {
+    "name": "Thranduil",
+    "race": "Elf"
+  },
+  {
+    "name": "Azog the Defiler",
+    "race": "Orc"
+  },
+  {
+    "name": "Dain Ironfoot",
+    "race": "Dwarf"
+  },
+  {
+    "name": "Beorn",
+    "race": "Skin-changer"
+  },
+  {
+    "name": "Bolg",
+    "race": "Orc"
+  }
+]
